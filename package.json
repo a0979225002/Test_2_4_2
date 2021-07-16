@@ -1,0 +1,14 @@
+{
+  "name": "test_2_4_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Xion_Li_Pin",
+  "license": "ISC",
+  "dependencies": {
+    "dpdm": "^3.6.1"
+  }
+}
